@@ -25,3 +25,4 @@ plot(`BCBA:HAVA`[,4],main="HAVANNA")
 plot(`BCBA:FERR`[,4],main="FERRUM")
 plot(`BCBA:PAMP`[,4],main="PAMPA")
 plot(`BCBA:BYMA`[,4],main="BYMA")
+
